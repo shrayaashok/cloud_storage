@@ -1,5 +1,4 @@
 streamlit
 pymongo
-os
 DBManager
 MongoClient
